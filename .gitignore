@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Build output (PyInstaller)
+build/
+dist/
+*.spec
+
+# Editors and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Game data and screenshots made while playing
+maze_save.json
+screenshots/
+
+# Archives and logs
+*.zip
+*.log
